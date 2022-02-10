@@ -1,0 +1,25 @@
+#proyectos 
+https://github.com/
+#fragmentos de codigos especificados y ayuda para los errores
+https://stackoverflow.com/
+# esta pagina te da todo bien especificado los codigos 
+https://www.w3schools.com/jquery/default.asp
+proyectos
+https://www.reddit.com/r/vuejs/
+proyectos
+https://codeforces.com/blog/entry/16473
+# esta pagina te da todo bien especificado los codigos 
+https://www.theodinproject.com/
+
+Las últimas herramientas CSS para diseñadores web
+https://www.cssmatic.com/border-radius
+
+// esto te ayuda para saber si el css es soportado por los navegadores
+https://caniuse.com/css-grid
+
+// esto es para que pongas en tu estilo de pagina en el inicio
+https://www.paulirish.com/2012/box-sizing-border-box-ftw/
+// esto es plantilla de vue
+https://demos.creative-tim.com/bs3/vue-paper-dashboard-pro/#/calendar
+// esto es plantillas gratis  y pagadas vuejs y angular,etc.
+https://demos.creative-tim.com/

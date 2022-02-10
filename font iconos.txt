@@ -1,0 +1,5 @@
+tablerocons.com
+heroiconos.dev
+fontawesome.com
+
+https://fonts.google.com/ // esto es para fuentes
